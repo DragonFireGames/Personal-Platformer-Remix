@@ -1,6 +1,6 @@
 {
   "serverType": "static",
-  "domain": "http://localhost:3000/",
+  "domain": "http://personal-platformer-remix.com/",
   "path": "/",
   "rootfolder": "/",
   "runfile": "/index.html",
